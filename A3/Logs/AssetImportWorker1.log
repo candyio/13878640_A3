@@ -250,3 +250,90 @@ Received Import Request.
 Start importing Assets/Spirits/PacStudent/PacStudentLeft.png using Guid(29458cd3a03ab49c9a095192012600bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '498ad209c88f5f925ae202d1760b1315') in 0.055549 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
 
+========================================================================
+Received Prepare
+Begin MonoManager ReloadAssembly
+Thread 0x16c75b000 may have been prematurely finalized
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+icall.c:1842:
+Symbol file LoadedFromMemory doesn't match image /Users/candysu/Desktop/13878640_A3/A3/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/YamlDotNet/Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image /Users/candysu/Desktop/13878640_A3/A3/Library/PackageCache/com.unity.visualscripting@1.8.0/Editor/VisualScripting.Core/Dependencies/DotNetZip/Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in  3.039 seconds
+Refreshing native plugins compatible for Editor in 1.48 ms, found 2 plugins.
+Native extension for OSXStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.578 seconds
+Domain Reload Profiling: 4628ms
+	BeginReloadAssembly (1734ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (95ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (4ms)
+		CreateAndSetChildDomain (756ms)
+	RebuildCommonClasses (107ms)
+	RebuildNativeTypeToScriptingClass (34ms)
+	initialDomainReloadingComplete (69ms)
+	LoadAllAssembliesAndSetupDomain (1105ms)
+		LoadAssemblies (1007ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (680ms)
+			TypeCache.Refresh (76ms)
+				TypeCache.ScanAssembly (0ms)
+			BuildScriptInfoCaches (532ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1579ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1191ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (9ms)
+			BeforeProcessingInitializeOnLoad (53ms)
+			ProcessInitializeOnLoadAttributes (1064ms)
+			ProcessInitializeOnLoadMethodAttributes (60ms)
+			AfterProcessingInitializeOnLoad (2ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 0 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 3140 unused Assets / (461.6 KB). Loaded Objects now: 3718.
+Memory consumption went from 246.6 MB to 246.1 MB.
+Total: 16.132417 ms (FindLiveObjects: 0.506125 ms CreateObjectMapping: 0.206125 ms MarkObjects: 13.815500 ms  DeleteObjects: 1.602833 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+========================================================================
+Received Import Request.
+  Time since last request: 5141.168122 seconds.
+  path: Assets/Spirits/Cherry/PowerCherry.png
+  artifactKey: Guid(042a69aa962b74153a5346bc24b6134d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Cherry/PowerCherry.png using Guid(042a69aa962b74153a5346bc24b6134d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '48c9e3bbd2d1197dd58fa6fde5e75ba5') in 1.241152375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 741.209672 seconds.
+  path: Assets/Spirits/Pellets/Blank.png
+  artifactKey: Guid(eb28de3ecc1d040f3bce5cf60d38ac79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Pellets/Blank.png using Guid(eb28de3ecc1d040f3bce5cf60d38ac79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8cea8e4ac477c3ad9683d9c5eaa10b95') in 0.259605458 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001120 seconds.
+  path: Assets/Spirits/Pellets/Power_Pellet.png
+  artifactKey: Guid(f38033379ef5b4d9a96d57284b0331d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Pellets/Power_Pellet.png using Guid(f38033379ef5b4d9a96d57284b0331d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'cd51747294f9bbda450416bebde002ef') in 0.10205475 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
