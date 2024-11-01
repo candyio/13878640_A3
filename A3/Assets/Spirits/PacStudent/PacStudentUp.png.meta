@@ -3,7 +3,7 @@ guid: cdc5013c667d945a2b442a4c3bf6baee
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -25,7 +25,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -65,6 +65,7 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -76,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -88,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -100,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -109,12 +113,12 @@ TextureImporter:
       name: PacStudentUp_0
       rect:
         serializedVersion: 2
-        x: 164
-        y: 220
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 150
+        y: 106
+        width: 90
+        height: 5
+      alignment: 9
+      pivot: {x: 0.6078531, y: -11.282948}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -130,12 +134,12 @@ TextureImporter:
       name: PacStudentUp_1
       rect:
         serializedVersion: 2
-        x: 297
-        y: 225
+        x: 223
+        y: 89
         width: 15
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: -4.8746777, y: -7.174418}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -156,7 +160,7 @@ TextureImporter:
         width: 119
         height: 115
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -177,7 +181,7 @@ TextureImporter:
         width: 124
         height: 113
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -193,12 +197,12 @@ TextureImporter:
       name: PacStudentUp_4
       rect:
         serializedVersion: 2
-        x: 271
-        y: 210
+        x: 254
+        y: 98
         width: 16
         height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: -0.430233, y: -3.882429}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -219,7 +223,7 @@ TextureImporter:
         width: 120
         height: 111
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -235,12 +239,12 @@ TextureImporter:
       name: PacStudentUp_6
       rect:
         serializedVersion: 2
-        x: 10
-        y: 102
+        x: 181
+        y: 98
         width: 16
         height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+      alignment: 9
+      pivot: {x: 1.3527131, y: 0.112402916}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -256,12 +260,12 @@ TextureImporter:
       name: PacStudentUp_7
       rect:
         serializedVersion: 2
-        x: 36
-        y: 92
-        width: 15
-        height: 16
-      alignment: 0
-      pivot: {x: 0, y: 0}
+        x: 156
+        y: 90
+        width: 41
+        height: 15
+      alignment: 9
+      pivot: {x: 4.5234447, y: 0.8307485}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -277,12 +281,12 @@ TextureImporter:
       name: PacStudentUp_8
       rect:
         serializedVersion: 2
-        x: 5
-        y: 77
-        width: 15
-        height: 15
+        x: 213
+        y: 93
+        width: 1
+        height: 2
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -303,7 +307,7 @@ TextureImporter:
         width: 122
         height: 114
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -326,17 +330,17 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      PacStudentUp_3: -1429763552
-      PacStudentUp_8: -995671576
-      PacStudentUp_4: 1049846116
       PacStudentUp_0: -323861426
       PacStudentUp_1: -604114522
-      PacStudentUp_9: -289271850
-      PacStudentUp_5: 649335046
-      PacStudentUp_7: 934073124
       PacStudentUp_2: 1294195713
+      PacStudentUp_3: -1429763552
+      PacStudentUp_4: 1049846116
+      PacStudentUp_5: 649335046
       PacStudentUp_6: -957246337
-  spritePackingTag: 
+      PacStudentUp_7: 934073124
+      PacStudentUp_8: -995671576
+      PacStudentUp_9: -289271850
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
   assetBundleName: 

@@ -234,3 +234,723 @@ Received Import Request.
 Start importing Assets/Spirits/Ghost/NormalState/Up/Ghost_2_Up.png using Guid(fc3a76a6da9a04a19b87045244130b7b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'a7d992b09a3c7ba0bb51602ed9192025') in 0.031893666 seconds
 Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
 
+========================================================================
+Received Import Request.
+  Time since last request: 854.329439 seconds.
+  path: Assets/Spirits/Ghost/RecoveryState/Ghost_2_Recovery.png
+  artifactKey: Guid(bdfca472665e74bb985452cff3244a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Ghost/RecoveryState/Ghost_2_Recovery.png using Guid(bdfca472665e74bb985452cff3244a1a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c3b69047ea013cb4db84666227c40a2f') in 0.194668792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 56.411759 seconds.
+  path: Assets/Spirits/Ghost/ScaredState/Ghost_2_Scared.png
+  artifactKey: Guid(d6c48f7d821f546e2a685610dc083eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Ghost/ScaredState/Ghost_2_Scared.png using Guid(d6c48f7d821f546e2a685610dc083eee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '72b1da19747b6dd48dc60f0c15410d73') in 0.078115708 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 954.988954 seconds.
+  path: Assets/Spirits/WallSegments/0_Empty.asset
+  artifactKey: Guid(49b037ddeecc84e9ba497a0a53b7fab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/0_Empty.asset using Guid(49b037ddeecc84e9ba497a0a53b7fab7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f31639c4e057701509b64510704725c5') in 1.765500833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006815 seconds.
+  path: Assets/Spirits/WallSegments/7_T_Junction.asset
+  artifactKey: Guid(ad9d6aa2e0c224c0b840a4e8450f8f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/7_T_Junction.asset using Guid(ad9d6aa2e0c224c0b840a4e8450f8f63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '417037c4ac1eb9e542a8752897feaac6') in 0.062814959 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000133 seconds.
+  path: Assets/Spirits/WallSegments/2.asset
+  artifactKey: Guid(5818d271adaab443d88437e394ee72a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/2.asset using Guid(5818d271adaab443d88437e394ee72a8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '21fb9e041044edcb28727b6c5559dcfd') in 0.0301605 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000145 seconds.
+  path: Assets/Spirits/WallSegments/5_StandardPellet.asset
+  artifactKey: Guid(486bfe6288f534ae09f7b69d8aec12df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/5_StandardPellet.asset using Guid(486bfe6288f534ae09f7b69d8aec12df) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '03fbb033b0f42dcabbc2f4f28615038f') in 0.055239875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/Spirits/WallSegments/5.asset
+  artifactKey: Guid(07eecc7b4eb884bca8c485ff45cc9760) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/5.asset using Guid(07eecc7b4eb884bca8c485ff45cc9760) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '3b132dee1a83c1491cca1c8d32936e69') in 0.017479 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Spirits/WallSegments/1.1.asset
+  artifactKey: Guid(a36772b06991a4ac7bfda06894d2cbe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/1.1.asset using Guid(a36772b06991a4ac7bfda06894d2cbe5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '600ab2acbac6eca26977f0272cd1ac31') in 0.022529875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Spirits/WallSegments/1.3.asset
+  artifactKey: Guid(53af6710097254b3f9457678584bb1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/1.3.asset using Guid(53af6710097254b3f9457678584bb1ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'dae5bfb45f7fe34b93b1a8bb6f793577') in 0.019405375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000410 seconds.
+  path: Assets/Spirits/WallSegments/1.6.asset
+  artifactKey: Guid(fcc3b6ac11a90473ca1d2e4c746d5b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/1.6.asset using Guid(fcc3b6ac11a90473ca1d2e4c746d5b18) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '816b166f64fad03a1af798de528db2e5') in 0.013309417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000151 seconds.
+  path: Assets/Spirits/WallSegments/Wall.png
+  artifactKey: Guid(9cf440d6f9e644ede84fd07e68869a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/Wall.png using Guid(9cf440d6f9e644ede84fd07e68869a2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '13598dd7c5017df1c794917e907cbe3d') in 0.148482584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 10
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Spirits/WallSegments/1.7.asset
+  artifactKey: Guid(03b714a77a48d457da0569527b20135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/1.7.asset using Guid(03b714a77a48d457da0569527b20135c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '27be160bde7963e7e5930d37d3160db2') in 0.027621167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000150 seconds.
+  path: Assets/Spirits/WallSegments/1.asset
+  artifactKey: Guid(e8265329461b94fe8873fe2c815fad2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/1.asset using Guid(e8265329461b94fe8873fe2c815fad2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'f86a13598fac689b7039c7564b43ca3e') in 0.014330542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/Spirits/WallSegments/6_PowerPellet.asset
+  artifactKey: Guid(7040f52ffa7ef4ba7a39a45997e9086b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/6_PowerPellet.asset using Guid(7040f52ffa7ef4ba7a39a45997e9086b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '6e7bffeabaf0979621f4c1d958e00564') in 0.01126425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Spirits/WallSegments/2_OutsideCorner.asset
+  artifactKey: Guid(45f897e86192e4f3ca7e43571101e816) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/2_OutsideCorner.asset using Guid(45f897e86192e4f3ca7e43571101e816) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e4e31ad2d13404079e3148603a0de9fb') in 0.01360425 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/Spirits/WallSegments/4_InsideWall.asset
+  artifactKey: Guid(86310229086b24494bc13cfcd2d18ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/4_InsideWall.asset using Guid(86310229086b24494bc13cfcd2d18ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '0fea5d51c59fd7c39890106971a34466') in 0.007848666 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Spirits/WallSegments/7.asset
+  artifactKey: Guid(7f85430ec20f44f5cb1fd16b344d6f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/7.asset using Guid(7f85430ec20f44f5cb1fd16b344d6f24) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'e446cea0a9fbd2f57db50b6a84d84d7a') in 0.012956 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000193 seconds.
+  path: Assets/Spirits/WallSegments/3.asset
+  artifactKey: Guid(efd6908b0b60146af9fa91eb3dcd15b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/3.asset using Guid(efd6908b0b60146af9fa91eb3dcd15b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '01ae41f12e90b3ebfb21e161e0bb0dd7') in 0.00811025 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 178.621847 seconds.
+  path: Assets/Spirits/Wall/2.png
+  artifactKey: Guid(9c347115664b6416188d05c8d556517e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Wall/2.png using Guid(9c347115664b6416188d05c8d556517e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '8ac1b513ed00701d7d8585f7fad1fa69') in 0.110909584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Spirits/Wall/New Piskel-1.png (2).png
+  artifactKey: Guid(efd355f766b7a4db091b7f634ea88db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Wall/New Piskel-1.png (2).png using Guid(efd355f766b7a4db091b7f634ea88db7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'c56a5e3c82a8100a4378eae3b0d6cae5') in 0.016159166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000072 seconds.
+  path: Assets/Spirits/Wall/4.png
+  artifactKey: Guid(66e3bc8c484bf481b9aa77eb63e130f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Wall/4.png using Guid(66e3bc8c484bf481b9aa77eb63e130f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2dcf153c6d0d8785ec57ade8dd8b3f3') in 0.020733125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000106 seconds.
+  path: Assets/Spirits/Wall/7.png
+  artifactKey: Guid(61e9fbe7290c446d8ac29c9da7f59757) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/Wall/7.png using Guid(61e9fbe7290c446d8ac29c9da7f59757) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: '967bc12c2b4e73406523e43c07af9c82') in 0.01249325 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 272.674092 seconds.
+  path: Assets/Spirits/WallSegments/Gameboard.prefab
+  artifactKey: Guid(2e5d2a41e244f4f00893c04bcd54706c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Spirits/WallSegments/Gameboard.prefab using Guid(2e5d2a41e244f4f00893c04bcd54706c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) (PreviewImporter) -> (artifact id: 'd2519fcf657cc9bb3b8af8cf521d3ac5') in 0.948082209 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 55
+
+========================================================================
+Received Import Request.
+  Time since last request: 1933.923061 seconds.
+  path: Assets/a3 safe/a3 safe.unity
+  artifactKey: Guid(198da2d45b95d4591943e8aaf86710f1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/a3 safe/a3 safe.unity using Guid(198da2d45b95d4591943e8aaf86710f1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b560462a429226dfc4d93ee2c04ccbf6') in 0.906650958 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001052 seconds.
+  path: Assets/Spirits/WallSegments/1_OutsideCorner.asset
+  artifactKey: Guid(4134441b1b8d144eba0847f43587011d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/1_OutsideCorner.asset using Guid(4134441b1b8d144eba0847f43587011d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '93c09f4a7684e28923148eb93c028f92') in 0.218774208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Spirits/Wall/7.png
+  artifactKey: Guid(61e9fbe7290c446d8ac29c9da7f59757) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Wall/7.png using Guid(61e9fbe7290c446d8ac29c9da7f59757) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9d464fc6051ef7690508e28dea60c111') in 0.12118225 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000058 seconds.
+  path: Assets/Spirits/WallSegments/1.3.asset
+  artifactKey: Guid(53af6710097254b3f9457678584bb1ae) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/1.3.asset using Guid(53af6710097254b3f9457678584bb1ae) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '87e79684a06de5dfbf619ea76f508a14') in 0.011899 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000767 seconds.
+  path: Assets/Audio Clips/SoundEffects/PelletEaten.wav
+  artifactKey: Guid(598dba24d3cd4402a926eca7e33af4e9) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Audio Clips/SoundEffects/PelletEaten.wav using Guid(598dba24d3cd4402a926eca7e33af4e9) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a4f3215f91dcbdd9df2cb63b335ce9ff') in 0.117963292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000651 seconds.
+  path: Assets/Audio Clips/Background/GhostNormalMusic.mp3
+  artifactKey: Guid(8cb995e4be4ab4631bd7334525de7b60) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Audio Clips/Background/GhostNormalMusic.mp3 using Guid(8cb995e4be4ab4631bd7334525de7b60) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f057225938db95828d6a0254b18ff16d') in 0.118713875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000441 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Up/Ghost_2_Up.png
+  artifactKey: Guid(fc3a76a6da9a04a19b87045244130b7b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Up/Ghost_2_Up.png using Guid(fc3a76a6da9a04a19b87045244130b7b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5b955e15a7c0f3b22f8fd64695024a83') in 0.066118208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000915 seconds.
+  path: Assets/Animations/PacStudent/PacStudent_Right.anim
+  artifactKey: Guid(61fbbdc7d50db4adab74214cccd3cf25) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/PacStudent_Right.anim using Guid(61fbbdc7d50db4adab74214cccd3cf25) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'f6b6797fecfdf4f7f9e51b84a828c6b2') in 0.033556167 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000508 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost_Scared.anim
+  artifactKey: Guid(419f9fbd5c3ea486ab71e2ab012be68e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost_Scared.anim using Guid(419f9fbd5c3ea486ab71e2ab012be68e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2eae31746cde8c5e6597867fabc89484') in 0.017527583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000417 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 4/Ghost4_Up.anim
+  artifactKey: Guid(5fe27e80289b8474aa91aab2e2b313bf) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 4/Ghost4_Up.anim using Guid(5fe27e80289b8474aa91aab2e2b313bf) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '28f2d0b7a4719951be7be6b99e45f719') in 0.011358292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000467 seconds.
+  path: Assets/Spirits/WallSegments/6.asset
+  artifactKey: Guid(c78e8daf567ae49ad9d97c0ef47c653e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/6.asset using Guid(c78e8daf567ae49ad9d97c0ef47c653e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c2a43d278a849a1fdcd49fa40b0db534') in 0.014277542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000334 seconds.
+  path: Assets/Spirits/Ghost/RecoveryState/Ghost_4_Recovery.png
+  artifactKey: Guid(a63c388a4f5d6445cb46887af7cd72de) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/RecoveryState/Ghost_4_Recovery.png using Guid(a63c388a4f5d6445cb46887af7cd72de) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a9800a656dc85cb6c6ad059e2f352aef') in 0.051221459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000108 seconds.
+  path: Assets/Animations/Pellets/PowerPellet.anim
+  artifactKey: Guid(a363d1b484fca4ddd9f5d150f5db02cc) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Pellets/PowerPellet.anim using Guid(a363d1b484fca4ddd9f5d150f5db02cc) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c6dd361ff1fe45ea407ea8ae59cadb60') in 0.009396291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Spirits/WallSegments/7_T_Junction.asset
+  artifactKey: Guid(ad9d6aa2e0c224c0b840a4e8450f8f63) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/7_T_Junction.asset using Guid(ad9d6aa2e0c224c0b840a4e8450f8f63) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7fc0588f360176e782d429cd08b26194') in 0.008559417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Spirits/Pellets/NormPellet.png
+  artifactKey: Guid(854731f52fb3c4cd497bb84392199076) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Pellets/NormPellet.png using Guid(854731f52fb3c4cd497bb84392199076) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c48dd2602707a43b8f42aed5f918c54b') in 0.02748975 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000331 seconds.
+  path: Assets/Spirits/WallSegments/3.asset
+  artifactKey: Guid(efd6908b0b60146af9fa91eb3dcd15b1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/3.asset using Guid(efd6908b0b60146af9fa91eb3dcd15b1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c603ca2cabecf7984fe8661e5cd7e76c') in 0.008206667 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/Spirits/WallSegments/4.asset
+  artifactKey: Guid(384c3c6a640b74896abe4bc6b2ebeb52) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/4.asset using Guid(384c3c6a640b74896abe4bc6b2ebeb52) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a97f1c79e22e7f2b2ce2c1f22c6017eb') in 0.007086041 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000252 seconds.
+  path: Assets/Spirits/WallSegments/Wall2.png
+  artifactKey: Guid(e9c0a36b05fe9440fa5fcd302d1ce619) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/Wall2.png using Guid(e9c0a36b05fe9440fa5fcd302d1ce619) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7e79884e584e81d214490e557940290e') in 0.049925291 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 9
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000100 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Right/Ghost_2_Right.png
+  artifactKey: Guid(0ae43ff76c483466a9373f96826f1071) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Right/Ghost_2_Right.png using Guid(0ae43ff76c483466a9373f96826f1071) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2e935e7fd9635657c3391331bb2a62c0') in 0.0367005 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000293 seconds.
+  path: Assets/Spirits/WallSegments/2_OutsideCorner.asset
+  artifactKey: Guid(45f897e86192e4f3ca7e43571101e816) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/2_OutsideCorner.asset using Guid(45f897e86192e4f3ca7e43571101e816) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '258ab41d33b1fb718fc1cc24224c6e01') in 0.007417625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000326 seconds.
+  path: Assets/Spirits/WallSegments/0.asset
+  artifactKey: Guid(6054a97aa808c4b348b07bd50a69bed1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/0.asset using Guid(6054a97aa808c4b348b07bd50a69bed1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '5a35a2d4c01795e80e9de14a2ee83aef') in 0.008883917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 4/Ghost4_Right.anim
+  artifactKey: Guid(f040d2c6b2ea94ab7bef782e93bb369d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 4/Ghost4_Right.anim using Guid(f040d2c6b2ea94ab7bef782e93bb369d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e5d19ca9292a6ff364286be5a2def17d') in 0.007097833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Spirits/WallSegments/1.5.asset
+  artifactKey: Guid(69392853b93f44133af0270c64cae308) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/1.5.asset using Guid(69392853b93f44133af0270c64cae308) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aef5fdabc02901b522efe3d2d0095383') in 0.00715375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/Animations/PacStudent/Up.controller
+  artifactKey: Guid(f0a03842c19a84c08becafad89935d0b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Up.controller using Guid(f0a03842c19a84c08becafad89935d0b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8ea61671d1a319a614bd3b3feacac0d2') in 0.016196083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000202 seconds.
+  path: Assets/Audio Clips/Background/IntroMusic.mp3
+  artifactKey: Guid(52c3503e068454f18a1b7756400a72d6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Audio Clips/Background/IntroMusic.mp3 using Guid(52c3503e068454f18a1b7756400a72d6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c1501eb6f1bfd0b3744446dea60afb6c') in 0.082945334 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000377 seconds.
+  path: Assets/Spirits/WallSegments/3_InsideCorner.asset
+  artifactKey: Guid(f042990f6e83e4771be513145ed373b1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/3_InsideCorner.asset using Guid(f042990f6e83e4771be513145ed373b1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '7d7bf2738806521e3ad5d585780b64e0') in 0.006728625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 3/Ghost3_Right.anim
+  artifactKey: Guid(b3acc2c78739747bdbbe47b807df6566) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 3/Ghost3_Right.anim using Guid(b3acc2c78739747bdbbe47b807df6566) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ea9964f47faeea584ad7f64926c66400') in 0.008449792 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Left/Ghost_3_Left.png
+  artifactKey: Guid(6b11634db6fc14fcb8c5b98f60f9e464) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Left/Ghost_3_Left.png using Guid(6b11634db6fc14fcb8c5b98f60f9e464) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'ac521cfd118fd9eeb86f1c7ef8de3a34') in 0.031694875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000115 seconds.
+  path: Assets/Spirits/Wall/6.png
+  artifactKey: Guid(2468b41c1842c49a3ad7148d3c2dfe70) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Wall/6.png using Guid(2468b41c1842c49a3ad7148d3c2dfe70) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2f8f9447319570e4acb2a44630374cb9') in 0.019496459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000153 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 2/Ghost2_Up.anim
+  artifactKey: Guid(06668d72ee84249a3a35cd8b210ee6d0) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 2/Ghost2_Up.anim using Guid(06668d72ee84249a3a35cd8b210ee6d0) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '206b14f30ceb0635d13d480312dceeb9') in 0.007316208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000225 seconds.
+  path: Assets/Spirits/WallSegments/2.1.asset
+  artifactKey: Guid(ab10d36ccd917470183960d107b96aee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/2.1.asset using Guid(ab10d36ccd917470183960d107b96aee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'c5191622ccee9c93867a1f44b5c88b34') in 0.005853166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Audio Clips/SoundEffects/PacStudentMovement.wav
+  artifactKey: Guid(8cf582b5625b74263a6393a47076c0f4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Audio Clips/SoundEffects/PacStudentMovement.wav using Guid(8cf582b5625b74263a6393a47076c0f4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '874a5d43b90b0e81e7f2917a5a4ece8f') in 0.035537084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/Spirits/WallSegments/1.1.asset
+  artifactKey: Guid(a36772b06991a4ac7bfda06894d2cbe5) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/1.1.asset using Guid(a36772b06991a4ac7bfda06894d2cbe5) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '28052265988bc235d054c7851f55aaf6') in 0.0056865 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Left/Ghost_4_Left.png
+  artifactKey: Guid(701fcc14b21004b889f815b273513305) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Left/Ghost_4_Left.png using Guid(701fcc14b21004b889f815b273513305) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '18dc60f70496cd363d1a5f0d89a6e21c') in 0.034742834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000223 seconds.
+  path: Assets/Spirits/Ghost/DeadState/Ghost_DeadState.png
+  artifactKey: Guid(c3200356d56b34ee7bfc01e295382073) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/DeadState/Ghost_DeadState.png using Guid(c3200356d56b34ee7bfc01e295382073) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'a45ae0b80ffc296e37dd9783810d469e') in 0.037840208 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Spirits/Wall/1.png
+  artifactKey: Guid(eb9f2249ff254487dbedda82965e0328) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Wall/1.png using Guid(eb9f2249ff254487dbedda82965e0328) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '28b622f5702cb8697ed5f12a7c01413f') in 0.023503709 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000134 seconds.
+  path: Assets/Spirits/Wall/4.png
+  artifactKey: Guid(66e3bc8c484bf481b9aa77eb63e130f6) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Wall/4.png using Guid(66e3bc8c484bf481b9aa77eb63e130f6) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '844f8cf6639390032cf1e6e769a79db6') in 0.021764625 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000332 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 3/Ghost3_Up.anim
+  artifactKey: Guid(0fc0b99a3814a472a99356ee887c5e7f) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 3/Ghost3_Up.anim using Guid(0fc0b99a3814a472a99356ee887c5e7f) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '624cddd157b540cf96029435e36360d0') in 0.005495917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000284 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 2/Ghost2_Right.anim
+  artifactKey: Guid(d88a89975e5414a2ea6b8613ede7a355) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 2/Ghost2_Right.anim using Guid(d88a89975e5414a2ea6b8613ede7a355) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9417cc0788f50d02663e05c4a16adc5b') in 0.00594275 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Audio Clips/SoundEffects/PacStudentDeath.wav
+  artifactKey: Guid(e486e3572fee841f98cff1e8c7c6eb17) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Audio Clips/SoundEffects/PacStudentDeath.wav using Guid(e486e3572fee841f98cff1e8c7c6eb17) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '78a95e521f93d1ca28deb0145984cd44') in 0.041114 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost_Recovery.anim
+  artifactKey: Guid(fddb9c769aef74f62b97d3c983e64296) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost_Recovery.anim using Guid(fddb9c769aef74f62b97d3c983e64296) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8edb77e1cb0d90034f441c30362bac12') in 0.007875791 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000375 seconds.
+  path: Assets/Audio Clips/SoundEffects/WallCollision.wav
+  artifactKey: Guid(3abe4e383b6d5427a9863fb655813ebe) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Audio Clips/SoundEffects/WallCollision.wav using Guid(3abe4e383b6d5427a9863fb655813ebe) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'db90ecfc17d48b05bbda4f4616af08ca') in 0.04239875 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/Animations/PacStudent/PacStudent_Down.anim
+  artifactKey: Guid(2074a3eee060a48ad89b6a9a1de27abb) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/PacStudent_Down.anim using Guid(2074a3eee060a48ad89b6a9a1de27abb) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8416530980fb3be93343ae814d81726d') in 0.006415375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000227 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Up/Ghost_4_Up.png
+  artifactKey: Guid(ef1e8bc3c4e90496eacc5936435edade) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Up/Ghost_4_Up.png using Guid(ef1e8bc3c4e90496eacc5936435edade) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '4dbeb53fe6fbf63c697db0295dc7cec6') in 0.034387541 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 2/Ghost2_Down.anim
+  artifactKey: Guid(b745fa40250ae47ef87c71c6cbf305e4) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 2/Ghost2_Down.anim using Guid(b745fa40250ae47ef87c71c6cbf305e4) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9a8dcc6fc3cf389f7005de9a242496d1') in 0.006833084 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Spirits/WallSegments/1.6.asset
+  artifactKey: Guid(fcc3b6ac11a90473ca1d2e4c746d5b18) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/1.6.asset using Guid(fcc3b6ac11a90473ca1d2e4c746d5b18) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8a979e20345220b16cc3824d4681e3c5') in 0.005852 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Spirits/WallSegments/0_Empty.asset
+  artifactKey: Guid(49b037ddeecc84e9ba497a0a53b7fab7) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/0_Empty.asset using Guid(49b037ddeecc84e9ba497a0a53b7fab7) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'aba31220aff0477a5375d464342f4b25') in 0.005917459 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/Spirits/Pellets/PowerCherry.png
+  artifactKey: Guid(042a69aa962b74153a5346bc24b6134d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Pellets/PowerCherry.png using Guid(042a69aa962b74153a5346bc24b6134d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '033fbe07d7fd5f9d54a1034da8953844') in 0.02315 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000305 seconds.
+  path: Assets/Spirits/Wall/3.png
+  artifactKey: Guid(0b8ebf857ffc84953a559c04b4a2286b) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Wall/3.png using Guid(0b8ebf857ffc84953a559c04b4a2286b) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'e017e5982ebcf2f549b6be74800635c0') in 0.019643583 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000216 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Right/Ghost_4_Right.png
+  artifactKey: Guid(4a5c9390e6f2a4496b8b2b2e670fc291) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Right/Ghost_4_Right.png using Guid(4a5c9390e6f2a4496b8b2b2e670fc291) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '0950a7ef27c38f1cf365831fa4d0103e') in 0.038604834 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/Animations/PacStudent/PacStudent_Up.anim
+  artifactKey: Guid(9b3ca9d48f62a44cfbab1f470584d071) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/PacStudent_Up.anim using Guid(9b3ca9d48f62a44cfbab1f470584d071) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '1b194e25399ad838d583392150427f7e') in 0.005315083 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000192 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 3/Ghost3_Down.anim
+  artifactKey: Guid(b6e2753fd679c4291bce6b009ea2000e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 3/Ghost3_Down.anim using Guid(b6e2753fd679c4291bce6b009ea2000e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '3dd0cee0a2988cd05abed29fdfae0df7') in 0.004999833 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000266 seconds.
+  path: Assets/Spirits/Wall/2.png
+  artifactKey: Guid(9c347115664b6416188d05c8d556517e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Wall/2.png using Guid(9c347115664b6416188d05c8d556517e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '83ce64f7488a9df2bdf6073133ca9153') in 0.020590125 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 3
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000166 seconds.
+  path: Assets/Animations/Ghost/Ghost_Movements/Ghost 1/Ghost1_Up.anim
+  artifactKey: Guid(fe3a76f3d12b243aea0bbe84cc054b3d) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/Ghost/Ghost_Movements/Ghost 1/Ghost1_Up.anim using Guid(fe3a76f3d12b243aea0bbe84cc054b3d) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2e3baf33ed11afd4e0530578a40e4e3a') in 0.006485166 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000285 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Up/Ghost_1_Up.png
+  artifactKey: Guid(4ec07e80d2fa84cc2b32786337f80a23) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Up/Ghost_1_Up.png using Guid(4ec07e80d2fa84cc2b32786337f80a23) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '66d082b5ff57f674921b498cbcf34679') in 0.032172542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/Spirits/WallSegments/4_InsideWall.asset
+  artifactKey: Guid(86310229086b24494bc13cfcd2d18ce1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/WallSegments/4_InsideWall.asset using Guid(86310229086b24494bc13cfcd2d18ce1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '59c110f27df851d911c0b91e934cb4fc') in 0.006437333 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 2
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/Spirits/Ghost/NormalState/Down/Ghost_1_Down.png
+  artifactKey: Guid(4b1faebb442d04154bbb8f74d87db172) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/Ghost/NormalState/Down/Ghost_1_Down.png using Guid(4b1faebb442d04154bbb8f74d87db172) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '8c16361bbe695e677eddd4b55861348b') in 0.032888292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 6
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/Spirits/PacStudent/PacStudentUp.png
+  artifactKey: Guid(cdc5013c667d945a2b442a4c3bf6baee) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Spirits/PacStudent/PacStudentUp.png using Guid(cdc5013c667d945a2b442a4c3bf6baee) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'cf0b63f4275172b3c1f650ab75e76e1e') in 0.051897375 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 12
+
+========================================================================
+Received Import Request.
+  Time since last request: 355.798959 seconds.
+  path: Assets/Animations/PacStudent/Down.controller
+  artifactKey: Guid(9684069abde1843eca65b45ae43d9ec3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Down.controller using Guid(9684069abde1843eca65b45ae43d9ec3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '626beefb93b4739b41c7ad36f453c0fd') in 0.041183542 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 140.531706 seconds.
+  path: Assets/Animations/PacStudent/Left.controller
+  artifactKey: Guid(03bb43d6fee344c3e8abb37b2b45899e) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Left.controller using Guid(03bb43d6fee344c3e8abb37b2b45899e) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '9ff0f03d8fd3348bf8f2314451e8995c') in 0.028886417 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 58.954952 seconds.
+  path: Assets/Animations/PacStudent/Right.controller
+  artifactKey: Guid(dca9bdfdf8b8e4b08b7b81bb94c6bbed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Right.controller using Guid(dca9bdfdf8b8e4b08b7b81bb94c6bbed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dd9597a4835f3ffb0e3109dabfd9e9b3') in 0.039079917 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 163.512588 seconds.
+  path: Assets/Animations/PacStudent/DeadState.controller
+  artifactKey: Guid(fb118ffd8d4224ac19889f604186cb51) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/DeadState.controller using Guid(fb118ffd8d4224ac19889f604186cb51) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '6b811e2af043452f5fae13431135ef65') in 0.033184584 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 269.660042 seconds.
+  path: Assets/Animations/PacStudent/DeadState.controller
+  artifactKey: Guid(fb118ffd8d4224ac19889f604186cb51) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/DeadState.controller using Guid(fb118ffd8d4224ac19889f604186cb51) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '51a56151225842f45e9e50e1d4e80559') in 0.02765925 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Animations/PacStudent/Down.controller
+  artifactKey: Guid(9684069abde1843eca65b45ae43d9ec3) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Down.controller using Guid(9684069abde1843eca65b45ae43d9ec3) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'b1101ac7e3c5f2c6321b022281760eae') in 0.010048292 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000315 seconds.
+  path: Assets/a3 safe/a3 safe.unity
+  artifactKey: Guid(198da2d45b95d4591943e8aaf86710f1) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/a3 safe/a3 safe.unity using Guid(198da2d45b95d4591943e8aaf86710f1) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '2fc6242587b8e1194067f834653439f1') in 0.07784575 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000079 seconds.
+  path: Assets/Animations/PacStudent/Pac_Down.anim
+  artifactKey: Guid(9b875a571419a4849a33cc76690d2d14) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Pac_Down.anim using Guid(9b875a571419a4849a33cc76690d2d14) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: 'dfa3199c80877b8956188aecb87b042f') in 0.012896 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 1
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Animations/PacStudent/Right.controller
+  artifactKey: Guid(dca9bdfdf8b8e4b08b7b81bb94c6bbed) Importer(2089858483,192608db42251d675da83286b1cce702)
+Start importing Assets/Animations/PacStudent/Right.controller using Guid(dca9bdfdf8b8e4b08b7b81bb94c6bbed) Importer(2089858483,192608db42251d675da83286b1cce702) (ScriptedImporter) -> (artifact id: '28c88a30e1e4d60c1072e2ea2a68016a') in 0.003726 seconds
+Number of updated asset objects reloaded before import = 0Number of asset objects unloaded after import = 4
+

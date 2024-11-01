@@ -3,7 +3,7 @@ guid: c687feabc62d04e4a8f0731c5a63f964
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
-  serializedVersion: 11
+  serializedVersion: 13
   mipmaps:
     mipMapMode: 0
     enableMipMap: 0
@@ -25,7 +25,7 @@ TextureImporter:
   streamingMipmaps: 0
   streamingMipmapsPriority: 0
   vTOnly: 0
-  ignoreMasterTextureLimit: 0
+  ignoreMipmapLimit: 0
   grayScaleToAlpha: 0
   generateCubemap: 6
   cubemapConvolution: 0
@@ -65,6 +65,7 @@ TextureImporter:
   ignorePngGamma: 0
   applyGammaDecoding: 0
   swizzle: 50462976
+  cookieLightType: 1
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
@@ -76,6 +77,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -88,6 +90,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
@@ -100,6 +103,7 @@ TextureImporter:
     crunchedCompression: 0
     allowsAlphaSplitting: 0
     overridden: 0
+    ignorePlatformSupport: 0
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
@@ -109,8 +113,8 @@ TextureImporter:
       name: PacStudent1_0
       rect:
         serializedVersion: 2
-        x: 338
-        y: 225
+        x: 278
+        y: 76
         width: 15
         height: 16
       alignment: 1
@@ -172,8 +176,8 @@ TextureImporter:
       name: PacStudent1_3
       rect:
         serializedVersion: 2
-        x: 220
-        y: 205
+        x: 278
+        y: 67
         width: 16
         height: 15
       alignment: 1
@@ -214,8 +218,8 @@ TextureImporter:
       name: PacStudent1_5
       rect:
         serializedVersion: 2
-        x: 353
-        y: 200
+        x: 282
+        y: 71
         width: 16
         height: 15
       alignment: 1
@@ -235,8 +239,8 @@ TextureImporter:
       name: PacStudent1_6
       rect:
         serializedVersion: 2
-        x: 77
-        y: 108
+        x: 275
+        y: 71
         width: 15
         height: 15
       alignment: 1
@@ -256,8 +260,8 @@ TextureImporter:
       name: PacStudent1_7
       rect:
         serializedVersion: 2
-        x: 102
-        y: 102
+        x: 276
+        y: 66
         width: 16
         height: 16
       alignment: 1
@@ -298,8 +302,8 @@ TextureImporter:
       name: PacStudent1_9
       rect:
         serializedVersion: 2
-        x: 92
-        y: 77
+        x: 274
+        y: 72
         width: 16
         height: 15
       alignment: 1
@@ -327,16 +331,16 @@ TextureImporter:
     secondaryTextures: []
     nameFileIdTable:
       PacStudent1_0: -1592034243
-      PacStudent1_7: -708987964
-      PacStudent1_5: -1172619076
-      PacStudent1_4: -1247954523
-      PacStudent1_3: -1531001894
-      PacStudent1_2: 2111785734
-      PacStudent1_9: -1145763418
-      PacStudent1_8: 795799797
-      PacStudent1_6: -1479826624
       PacStudent1_1: -1843110186
-  spritePackingTag: 
+      PacStudent1_2: 2111785734
+      PacStudent1_3: -1531001894
+      PacStudent1_4: -1247954523
+      PacStudent1_5: -1172619076
+      PacStudent1_6: -1479826624
+      PacStudent1_7: -708987964
+      PacStudent1_8: 795799797
+      PacStudent1_9: -1145763418
+  mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
   assetBundleName: 
